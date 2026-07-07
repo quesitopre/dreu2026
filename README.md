@@ -1,7 +1,7 @@
 # DREU Research Log
 
 **Student:** Citlalli Monique Martinez Cervantes  
-**Mentor:** Asma Jodeiri akbarfam
+**Mentor:** Asma Jodeiri Akbarfam
 
 This repository contains your weekly research log for the Distributed Research Experiences for Undergraduates (DREU) program. It covers 10 weeks. All 10 log files are pre-created — you fill them in week by week.
 
