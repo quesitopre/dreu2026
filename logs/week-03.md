@@ -20,7 +20,7 @@
 - After my meeting with Ramy it strengthened my knowledge of the darknet dataset from Merit ORION network telescope, specifically that I need timestamp (μs), source IP, destination IP, destination port,transport protocol, TCP flags, and frame length features to measure micropacing.
 - Alex suggest using dpkt for analyzing the PCAP files and that he used Merit's VM to get the PCAP files for the data. From what I researched on their wedbpage I would need permission from Merit to be able to access their network Telescope VM.
 - Updated the notes for Background section in darknet traffic analysis and unsupervised ML methods such as Isolation Forest, Autoencoder, and LSTM.
-- Dr.Akbarfam requested remote access for me to Merit's Network telescope VM to be able to obtain the data. When I will gain access to Merit's VM is unsure.
+- Dr.Akbarfam requested remote access for me to use Merit's Network telescope VM to be able to obtain the data. When I will gain access to Merit's VM is unsure.
 ## Notes
 
 
