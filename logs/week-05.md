@@ -4,7 +4,7 @@
 
 ## Goals
  - Extract source IPS, destination port, Transport protocol, timestamp into a CSV to understand micro pacing behaviors for ml model.
--Compute inter-arrival-time(IAT)
+- Compute inter-arrival-time(IAT).
 - Compute statistical analysis to understand micropaced behavior.
 - Chose ~ 13 features that will evaluate the timing, volume, and targeting of each unique source IPs.
 
