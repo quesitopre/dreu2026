@@ -21,6 +21,5 @@
 ## Notes
 - Continue column/time-span verification before reprocessing the dataset.
 - Decided that I'm sticking to Google Colab for feature extraction and OSG to build and train the ML.
-- After meeting with an OSG facilitator about my computing needs for this research project.
 - Dr. Asma was super helpful in onboarding me to OSG resources, she shared alot of materials, tutorial links, and documentation throughout the week. 
 
