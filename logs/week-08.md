@@ -1,6 +1,6 @@
 # Week 8
 
-**Dates:** 07-27 to 0802
+**Dates:** 07-27 to 08-02
 
 ## Goals
 - Resolve the IAT cross-capture contamination bug and re-verify all downstream statistics on the corrected pipeline.
