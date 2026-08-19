@@ -1,6 +1,6 @@
 # Week 10
 
-**Dates:** 09-10 to 08-17
+**Dates:** 08-10 to 08-17
 
 ## Goals
 - Condense and finalize the paper structure(merge Discussion into Results and Analysis as key insights bullet points) and prepare the full draft for submission.
